@@ -1,6 +1,7 @@
 Student Feedback Analysis
 
 This project analyzes student feedback collected from college events such as workshops, technical fests, and cultural programs. The goal is to extract meaningful insights from both rating-based and text-based feedback using data analysis and Natural Language Processing (NLP) techniques.
+
 Tasks Performed:
 
 Cleaned and prepared feedback dataset (Google Form CSV export).
